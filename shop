@@ -1,0 +1,10 @@
+public class shop{
+    /* this is a 
+    java
+    */
+    public static void main(String args[]){
+        int mach=0;//weight machine
+        int tomato=2;
+        System.out.println(mach+tomato*5);
+    }
+}
